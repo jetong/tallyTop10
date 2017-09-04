@@ -1,0 +1,20 @@
+Joe,Strawberry
+Michael,Chocolate
+Sam,Vanilla
+Mary,Strawberry
+Stephen,Vanilla
+Louis,Mocha
+Pat,Vanilla
+Rachel,Strawberry
+Ian,Strawberry
+Pete,Caramel
+Jane,Mint
+Ralph,Cookie Dough
+Maya,Cookies n Cream
+Rich,Coffee
+Veronica,Rainbow
+Howard,Mint
+Jose,Vanilla
+Ben,Strawberry
+Howard,Strawberry
+Charlie,Apple
